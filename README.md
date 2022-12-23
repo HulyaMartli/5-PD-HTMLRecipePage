@@ -2,9 +2,15 @@
 
 This is a mosaic cake recipe page I created for Task 3 - HTML course in the Beginner Frontend Web Development Path in [patika.dev](https://patika.dev/).
 
+It contains 2 HTML files for the English and Turkish versions of the recipe. You can change the language by clicking the language link on the top right of the page in the navigation section.
+
 ## Preview
 
-![RecipePagepreview](https://lh3.googleusercontent.com/nE72FdQKPx0S6XuXGaMTqD1XBXKN7aTtWOLyMmLbcYtYLUpRNTz5azpkaa5OlSppHKZD4Zw_footV3qaXKZuLJjjIpRDhr3FLLrpMxyBy4LRd_SxoZ4Lr3n4VpVKIA9PydFpiPeaPjc=w2400)
+### English Recipe
+![RecipePagePreviewEN](https://lh3.googleusercontent.com/nE72FdQKPx0S6XuXGaMTqD1XBXKN7aTtWOLyMmLbcYtYLUpRNTz5azpkaa5OlSppHKZD4Zw_footV3qaXKZuLJjjIpRDhr3FLLrpMxyBy4LRd_SxoZ4Lr3n4VpVKIA9PydFpiPeaPjc=w2400)
+
+### Turkish Recipe
+![RecipePagePreviewTR](https://lh3.googleusercontent.com/J0ME8fyrOJZz9aWvZx5l6_lAu08Ju6YYEMGHOsv7pbzcW1VBNSDMXz9je_AI4ZsJIlhRc5K56v8W-2flNsVwQYvzLYj9Sha60Nf9QzWWdsQK4T6Gi5dhu2oi0t9oGH2sGoHYVQnMwog=w2400)
 
 ## Sources
 
