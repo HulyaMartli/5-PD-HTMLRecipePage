@@ -4,7 +4,7 @@ This is a mosaic cake recipe page I created for Task 3 - HTML course in the Begi
 
 ## Preview
 
-![RecipePagepreview](https://lh3.googleusercontent.com/zHXgTgL9OkAhNBCZyim_ZpYmOls48daiHrS6-SI986KFfwQazHPbAEddkUfjiAxKevJ657KINsqysF3W3bQJqSKCcnWgoxyMAmhQehnewB_8OxKzFw29HfrkCMY1VegwdZMLbGIWFTk=w2400)
+![RecipePagepreview](https://lh3.googleusercontent.com/nE72FdQKPx0S6XuXGaMTqD1XBXKN7aTtWOLyMmLbcYtYLUpRNTz5azpkaa5OlSppHKZD4Zw_footV3qaXKZuLJjjIpRDhr3FLLrpMxyBy4LRd_SxoZ4Lr3n4VpVKIA9PydFpiPeaPjc=w2400)
 
 ## Sources
 
