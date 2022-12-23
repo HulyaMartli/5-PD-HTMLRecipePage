@@ -7,7 +7,7 @@ It contains 2 HTML files for the English and Turkish versions of the recipe. You
 ## Preview
 
 ### English Recipe
-![RecipePagePreviewEN](https://lh3.googleusercontent.com/nE72FdQKPx0S6XuXGaMTqD1XBXKN7aTtWOLyMmLbcYtYLUpRNTz5azpkaa5OlSppHKZD4Zw_footV3qaXKZuLJjjIpRDhr3FLLrpMxyBy4LRd_SxoZ4Lr3n4VpVKIA9PydFpiPeaPjc=w2400)
+![RecipePagePreviewEN](https://lh3.googleusercontent.com/8EWflykIjyWPA0fgT_CqDSSV5wRqa9W95TkddiQ0i9X-gjcYwLdX6a_gmFWLNBR7r3Q2l5ylgV_YvzS4_Ps8ZcannmOvrgd1fWROpHKdvo4zdi1s8NjnPlhNZrLgSzO1wOHLYB143WM=w2400)
 
 ### Turkish Recipe
 ![RecipePagePreviewTR](https://lh3.googleusercontent.com/J0ME8fyrOJZz9aWvZx5l6_lAu08Ju6YYEMGHOsv7pbzcW1VBNSDMXz9je_AI4ZsJIlhRc5K56v8W-2flNsVwQYvzLYj9Sha60Nf9QzWWdsQK4T6Gi5dhu2oi0t9oGH2sGoHYVQnMwog=w2400)
