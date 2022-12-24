@@ -1,84 +1,92 @@
+/*********************** LAYOUT ***********************/
+
 body {
-    /* BACKGROUND */
+    /********* BACKGROUND *********/
     background-image: url(https://images.unsplash.com/photo-1566041510394-cf7c8fe21800?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80);
-    /* FONT */
+    /********* FONT *********/
     font-family:'Times New Roman', Times, serif;
     font-style: italic;
     font-size: 1em;
     color:#D4AF37;
     text-align: center;
-    /* BORDER */
+    /********* BORDER *********/
     border-style:double;
     border-radius: 5px;
     border-width: 5px;
     border-color: #D4AF37;
-
-
 }
 
+    /********* HEADINGS *********/
+    h1 {
+        font-size: 2.5em;
+        font-weight: lighter;
+        margin: 20px;
+    }
+
+    .subtitle {
+        font-size: 1.2em;
+        margin-top: -20px;
+    }
+
+    /********* VISUALS *********/
+
+    .img1 {
+        max-width:80%; 
+        border-style:double;
+    }
+
+    /********* LIST ITEMS *********/
+.ulleft {
+    text-align: left;
+}
+
+    /********* LINKS *********/
+
+    a {
+        color:#D4AF37;
+    }
+
+    /********* DIVIDERS *********/
+
+    .mainhr {
+        border-radius: 4px; 
+        border-color: #D4AF37;
+    }
+
+    .sechr { 
+        width: 80%; 
+        border-color: #D4AF37;
+        border-radius: 4px;
+    }
+
+    .h2hr {
+        border-width: 1px 0px 0px; 
+        width: 32%; 
+        border-color: #D4AF37;
+    }
+
+    /********* LANGUAGE CHANGE BUTTON *********/
+
+        .language {
+        text-align: right;
+        margin-right: 20px;
+        margin-top: -40px;
+    }
+
+
+/*********************** CARD ***   ********************/
+
 div {
-    /* BACKGROUND */
+    /********* BACKGROUND *********/
     background: url(https://textures.world/wp-content/uploads/2018/10/21-Black-Paper-Different-Texture-Types-A4-Silkweave.jpg);
-    /* BORDER */
+    /********* BORDER *********/
     border-radius: 20px;
     border-style: solid;
-    /* VISUAL FETURES */
+
+    /********* VISUAL FETURES *********/
     max-width: 70%; 
     display:inline-block; 
     margin: 2%;
     list-style-position: inside;
 }
 
-/* LIST ITEMS */
-.ulleft {
-    text-align: left;
-}
-
-/* LANGUAGE CHANGE BUTTON */
-.language {
-    text-align: right;
-    margin-right: 20px;
-    margin-top: -40px;
-}
-
-/* LINKS */
-a {
-    color:#D4AF37;
-}
-
-/* DIVIDER CLASSES */
-.mainhr {
-    border-radius: 4px; 
-    border-color: #D4AF37;
-}
-
-.sechr { 
-    width: 80%; 
-    border-color: #D4AF37;
-    border-radius: 4px;
-}
-
-.h2hr {
-    border-width: 1px 0px 0px; 
-    width: 32%; 
-    border-color: #D4AF37;
-}
-
- /* HEADINGS */
-h1 {
-    font-size: 2.5em;
-    font-weight: lighter;
-    margin: 20px;
-}
-
-.tagline {
-    font-size: 1.2em;
-    margin-top: -20px;
-}
-
-/* VISUALS */
-
-.img1 {
-    max-width:80%; 
-    border-style:double;
-}
