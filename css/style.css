@@ -30,13 +30,13 @@ body {
 
     /********* VISUALS *********/
 
-    .img1 {
+    .img-1 {
         max-width:80%; 
         border-style:double;
     }
 
     /********* LIST ITEMS *********/
-.ulleft {
+.ul-left {
     text-align: left;
 }
 
@@ -48,18 +48,18 @@ body {
 
     /********* DIVIDERS *********/
 
-    .mainhr {
+    .main-hr {
         border-radius: 4px; 
         border-color: #D4AF37;
     }
 
-    .sechr { 
+    .sec-hr { 
         width: 80%; 
         border-color: #D4AF37;
         border-radius: 4px;
     }
 
-    .h2hr {
+    .h2-hr {
         border-width: 1px 0px 0px; 
         width: 32%; 
         border-color: #D4AF37;
